@@ -1,2 +1,2 @@
-# brewfile
-package list for Homebrew
+# Brewfile
+My personal `Brewfile`
